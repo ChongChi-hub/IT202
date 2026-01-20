@@ -1,0 +1,14 @@
+-- Sinh viên: 
+-- student_id
+-- student_name
+-- Môn học: 
+-- course_id
+-- course_name
+-- credits: 
+-- course_id
+-- Mục tiêu học tập:
+-- goal_id
+-- goal_description
+-- Quan hệ:
+-- Sinh viên học nhiều môn học (1–N)
+-- Mỗi môn học có nhiều mục tiêu học tập (1–N)
